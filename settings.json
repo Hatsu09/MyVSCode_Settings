@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "breadcrumbs.enabled": true, // ファイルのパンくずリストを表示する
+    "debug.inlineValues": "on", // デバッグ中に行内に変数値を表示
+    "editor.renderLineHighlight": "all", //選択行の行番号をハイライトする
+    "editor.fontSize": 15,
+    "editor.renderControlCharacters": true, // 制御文字を表示する
+    "editor.renderWhitespace": "all", // 空白文字の表示方法
+    "editor.bracketPairColorization.enabled": true, // 括弧の対応を色付ける
+    "files.eol": "\n", // 改行コードの規定値
+    "workbench.startupEditor": "none",
+    "editor.fontFamily": "MyricaM M, Consolas, 'Courier New', monospace"
+}
